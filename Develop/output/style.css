@@ -1,0 +1,13 @@
+.card-container {
+    margin: 0% 10% 0% 10%;
+}
+
+.card {
+    border: black 1px solid;
+    margin: 1px;
+}
+
+.card-header {
+    margin-left: 5%;
+}
+
